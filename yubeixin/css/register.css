@@ -1,0 +1,335 @@
+@charset "utf-8";
+html, body, h1, h2, h3, h4, h5, h6, p, pre,
+ dl, dd, ol, ul, li, a, span, caption, th, td, 
+ form, fieldset, legend, input, button, textarea, address {
+    margin: 0;
+    padding: 0;
+}
+html,body{
+	height:100%;
+}
+ul li{
+	list-style: none;;
+}
+a, a:hover {
+    text-decoration: none;
+}
+body {
+    font-size: 12px;
+    font-family: arial,"Hiragino Sans GB", "Microsoft YaHei","微軟正黑體","儷黑 Pro", sans-serif;
+    background: #f9f9f9;
+    color: #666;
+}
+.wrapper {
+    width: 100%;
+    min-height: 100%;
+    height: auto;
+    display: -webkit-box;
+    -webkit-box-align: center;
+        -webkit-box-pack: center;
+}
+.wrap{
+	padding-bottom:80px;
+}
+.layout {
+    width: 854px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+}
+.n-frame{
+	background: #fff;
+	padding:34px 34px 0;
+	min-height:400px;
+}
+.device-frame {
+    padding-bottom: 30px;
+    border:0 none;
+    border-radius:0;
+    padding-top:0;
+}
+.external_logo_area {
+    padding-bottom: 40px;
+    display: block;
+}
+.milogo{
+    width: 49px;
+    height: 48px;
+    margin: 0 auto;
+    display: block;
+    cursor: default;
+	background-image: url(../img/milogo.png);
+}
+.title-item {
+    padding-bottom: 10px;
+    border-bottom: 1px solid #e6e6e6;
+    clear: both;
+}
+.t_c {
+    text-align: center;
+}
+.device-frame .title-item {
+    border-bottom: none;
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+.title-big, .title-bigger, .title-biggest, .title-normal, .title_big30 {
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    font-weight: bold;
+}
+.title_big30 {
+    font-size: 30px;
+    font-weight: normal;
+}
+/*reg-box*/
+.mauto, .regbox {
+    margin: 0 auto;
+}
+.regbox {
+    width: 332px;
+    padding: 30px 0;
+    line-height: 20px;
+}
+.tits {
+    height: 40px;
+    padding-left: 14px;
+    line-height: 40px;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid #e8e8e8;
+    color: #555;
+    cursor: pointer;
+}
+em, .ch, i {
+    font-style: normal;
+}
+.tits .ch {
+    float: left;
+    width: 275px;
+    border-right: 1px solid #e8e8e8;
+    cursor: pointer;
+}
+.icon_cirarr {
+    float: right;
+    background: url(../img/icon_user.png);
+    width: 16px;
+    height: 16px;
+    margin: 11px 12px 0 12px;
+}
+/*地区*/
+.country-container {
+    width: 100%;
+    background: #fff;
+    height: 270px;
+    line-height: 30px;
+    border: 1px solid #e8e8e8;
+    overflow-x: hidden;
+    overflow-y: auto;
+    position: absolute;
+    left: 0;
+    top: 41px;
+    z-index: 98;
+   display: none;
+}
+.country-container .header, .country-container h6 {
+    background: #fcdecc;
+    padding-left: 10px;
+    margin-bottom: 6px;
+    line-height: 30px;
+    color: #ef5b00 !important;
+}
+.clearfix:after {
+    display: block;
+    content: "\20";
+    height: 0;
+    clear: both;
+    overflow: hidden;
+    visibility: hidden;
+}
+.country-container .record, .country-container p {
+    padding: 0 10px;
+    line-height: 39px;
+    clear: both;
+    overflow: hidden;
+    color: #000;
+    border-bottom: 1px solid #e0e0e0;
+    cursor: pointer;
+}
+.country-container .record span {
+    height: 39px;
+    overflow: hidden;
+}
+.country-container .record-country {
+    float: left;
+    max-width: 74%;
+    color: #000;
+    cursor: pointer;
+}
+.country-container .record-code {
+    float: right;
+    max-width: 20%;
+    color: #9d9d9d;
+}
+.listwrap {
+    margin-bottom: 15px;
+    position: relative;
+}
+/*手机号码*/
+.inputbg {
+	position: relative;
+}
+.inputbg .code-image{
+    text-align: center;
+    font-size: 17px;
+    letter-spacing: 7px;
+    background-color: #ddd;
+    text-shadow: 1px 1px 2px;
+}
+.inputbg span{
+	position: absolute;
+    right: 5px;
+    top: 0;
+    line-height: 40px;
+}
+.pb15, .inputbg {
+    padding-bottom: 15px;
+}
+.labelbox, .input_bg {
+    height: 40px;
+    line-height: 40px;
+    display: inline-block;
+}
+.labelbox.active{
+	border: 1px solid #ff6700;
+}
+.labelbox, .input_bg, .tits_list, .borderbox {
+    border: 1px solid #e8e8e8;
+}
+a, label, :focus {
+    outline: 0 none;
+}
+.inputbg input {
+    width: 310px;
+}
+.labelbox input, .input_bg input {
+    height: 20px;
+    line-height: 20px;
+    padding: 10px;
+    display: inline-block;
+}
+input {
+    background: none;
+    border: 0 none;
+    color:#333;
+}
+/*error tip*/
+.err_tip, .err_tip_independ {
+    margin-bottom: 5px;
+    line-height: 20px;
+    font-size: 12px;
+    color: #ff6700;
+    display: none;
+}
+.err_tip {
+    margin-top: -8px;
+}
+.icon_error {
+    width: 14px;
+    height: 14px;
+    margin: -1px 5px 0 0;
+    overflow: hidden;
+    display: inline-block;
+    vertical-align: middle;
+    background-image: url(../img/error.png);
+}
+.err_tip span {
+    vertical-align: middle;
+}
+/*验证码*/
+.chkcode_img {
+	display: inline-block;
+	width:125px;
+	height:42px;
+    margin-left: 7px;
+    vertical-align: middle;
+    cursor: pointer;
+}
+a, img, input {
+    border: 0 none;
+}
+.inputcode .code {
+    width: 170px;
+}
+/*立即注册*/
+input[type="button"], input[type="submit"], input[type="reset"], a {
+    -webkit-appearance: none;
+    appearance: none;
+}
+.btn_reg_1 {
+    background-color: #ff6700;
+    margin-top: 15px;
+    border: 1px solid rgba(186,186,186,0.3);
+    color: #fff;
+}
+.btn332 {
+    width: 330px;
+    height: 42px;
+    margin: 0 auto;
+    line-height: 42px;
+    text-align: center;
+    font-size: 14px;
+    display: block;
+    cursor: pointer;
+    border: 1px solid #e8e8e8;
+}
+.msg {
+    margin-top: 10px;
+    color: #9d9d9d;
+}
+.ftbold, .msg em, .msg a {
+    font-weight: bold;
+}
+.msg a {
+    color: #333;
+}
+.log{
+    height: 20px;
+    width: 60px;
+    text-align: center;
+    float: right;
+    -border: 1px solid #ddd;
+}
+.log a{
+	color: #333;
+}
+.log a:hover{
+	color:#ff6700;
+}
+/*footer*/
+.footer{
+	color: #9d9d9d;
+	text-align: center;
+	height: 80px;
+	font-size:12px;
+}
+.footer li{
+	-float:left;
+	display:inline-block;
+}
+.footer li a{
+	display:inline-block;
+	padding:0 10px;
+}
+.footer .intro{
+	padding:10px;
+}
+.footer .intro .plink{
+	color: #9d9d9d;
+}
+.show{
+	-display: none;
+}
+.hide{
+	display: none;
+}

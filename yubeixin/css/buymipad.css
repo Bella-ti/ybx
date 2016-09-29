@@ -1,0 +1,152 @@
+@charset "utf-8";
+/*顶部*/
+.site-header .nav-category .link-category{
+	visibility: visible;
+}
+.site-header .nav-category .site-category{
+	display: none;
+}
+.nav-category .site-category .site-category-list{
+	background-color:#fff;
+	border:1px solid #ff6700;
+}
+.site-category-list .category-item .title{
+	color:#333;
+}
+.site-category-list .category-item .title:hover,
+.site-category-list .category-item .iconfont:hover{
+	color:#fff;
+}
+.site-category-list .category-item .iconfont{
+	color: #B0B0B0;
+}
+.site-category-list .children{
+	box-shadow: 5px 8px 10px rgba(102,102,102,0.1)
+}
+h4{
+	margin:0;
+	padding: 0;
+}
+/*main*/
+.container .choose-step {
+    border: 1px solid #e0e0e0;
+    margin-top: 15px;
+}
+.container .choose-step .choose-content{
+	padding: 30px;
+	padding-bottom: 0;
+}
+.container .choose-step .next-step {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #eee;
+    overflow: hidden;
+}
+.container .choose-step .choose-content .step-title {
+    text-align: left;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.container .choose-step .choose-content .step-content {
+    list-style-type: none;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-left: -14px;
+    overflow: hidden;
+}
+.container .choose-step .choose-content .step-title i {
+    font-style: normal;
+    font-size: 24px;
+    color: #ffac13;
+    padding-right: 10px;
+}
+.container .choose-step .choose-content .step-title b {
+    font-weight: normal;
+    font-size: 18px;
+    color: #616161;
+}
+.container .choose-step .choose-content .step-title img{
+	height:50px;
+	
+}
+.container .choose-step .choose-content .step-content li {
+    float: left;
+    margin-left: 14px;
+    margin-top: 14px;
+    width: 280px;
+}
+.container .choose-step .choose-content .step-content li .version.active {
+    border: 1px solid #e53935;
+    background-color: #fff;
+    cursor: default;
+}
+.container .choose-step .choose-content .step-content li .version {
+    border: 1px solid #e0e0e0;
+    height: 150px;
+    background-color: #fafafa;
+    overflow: hidden;
+    text-align: center;
+    position: relative;
+    cursor: pointer;
+}
+.container .choose-step .choose-content .step-content li .version .name {
+    margin-top: 38px;
+    font-size: 24px;
+    color: #424242;
+    font-weight: normal;
+}
+.container .choose-step .choose-content .step-content li .version.hover{
+	background-color: rgb(238,238,238);
+}
+.container .choose-step .choose-content .step-content li .version.stockout{
+    background: rgb(238,238,238);
+    cursor: default;
+    opacity: 0.5;
+}
+.container .choose-step .choose-content .step-content li .version .descp {
+    margin-top: 5px;
+    font-size: 12px;
+    color: #757575;
+}
+.container .choose-step .choose-content .step-content li .version .tipLogo {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 63px;
+    height: 63px;
+    text-indent: -9999em;
+    overflow: hidden;
+    background: url(../img/iconTag.png) no-repeat -63px 0;
+}
+.container .choose-step .next-step .next-info {
+    float: right;
+    padding-right: 30px;
+}
+.container .choose-step .next-step .next-info .tip {
+    float: left;
+    font-size: 12px;
+    color: #616161;
+    line-height: 40px;
+    padding-right: 20px;
+}
+.container .choose-step .next-step .next-info .shortage{
+	float: left;
+    font-size: 12px;
+    color: #616161;
+    line-height: 40px;
+    padding-right: 20px;
+}
+.container .choose-step .next-step .next-info .btn {
+    float: left;
+    cursor: default;
+}
+.btn {
+    -border: 1px solid #b0b0b0;
+    -color: #b0b0b0;
+}
+.container .choose-step .next-step .next-info .btn.active {
+    background-color: #f25807;
+    border-color: #f25807;
+    color: #fff;
+    cursor: pointer;
+}

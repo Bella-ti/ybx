@@ -1,0 +1,991 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"cir",
+				"circleClick"
+			],
+			[
+				"lef",
+				"leftClick"
+			],
+			[
+				"ri",
+				"rightClick"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-right"
+			],
+			[
+				"listst",
+				"list-style"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"fo",
+				"fs-o	font-style: oblique;"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"get",
+				"getElementsByClassName"
+			],
+			[
+				"add",
+				"addEventListener"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"pa",
+				"password2"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"w",
+				"write"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"他可以",
+				"他可以吃到水果"
+			],
+			[
+				"n",
+				"num3"
+			],
+			[
+				"nu",
+				"num4"
+			],
+			[
+				"touche",
+				"touchendfunc"
+			],
+			[
+				"touch",
+				"touchmovefunc"
+			],
+			[
+				"tou",
+				"touchstartfunc"
+			],
+			[
+				"start",
+				"starty"
+			],
+			[
+				"show",
+				"show"
+			],
+			[
+				"a",
+				"absolute"
+			],
+			[
+				"b",
+				"block"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"ge",
+				"getElementByTagName"
+			],
+			[
+				"ti",
+				"setTimeout"
+			],
+			[
+				"h",
+				"height	Attr"
+			],
+			[
+				"gro",
+				"background-color"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"t",
+				"text-bottom"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"to",
+				"top"
+			],
+			[
+				"re",
+				"background-repeat"
+			],
+			[
+				"MAR",
+				"margin"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"on",
+				"onmousemove	Attr"
+			],
+			[
+				"onmouse",
+				"onmouseover	Attr"
+			],
+			[
+				"bac",
+				"backgroundColor"
+			],
+			[
+				"baclk",
+				"background-color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"boder",
+				"border-radius"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"boder-s",
+				"border-style"
+			],
+			[
+				"boder-",
+				"border-color"
+			],
+			[
+				"vi",
+				"visibility"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"lise",
+				"list-style-type"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"magi",
+				"margin-left"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"cell",
+				"cellspacing	Attr"
+			],
+			[
+				"ce",
+				"cellpadding	Attr"
+			],
+			[
+				"if",
+				"iframe	Tag"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"baa",
+				"background-image"
+			],
+			[
+				"wo",
+				"word-spacing"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"cel",
+				"cellpadding	Attr"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"mag",
+				"margin"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"big",
+				"bigImg"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"img",
+				"imgs"
+			],
+			[
+				"se",
+				"Seconds"
+			],
+			[
+				"en",
+				"endTime"
+			],
+			[
+				"times",
+				"times"
+			],
+			[
+				"d",
+				"dat2"
+			],
+			[
+				"step",
+				"stepMax"
+			],
+			[
+				"btn",
+				"btn1"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"user",
+				"userDel"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"us",
+				"userDel"
+			],
+			[
+				"US",
+				"userName"
+			],
+			[
+				"cr",
+				"createTextNode"
+			],
+			[
+				"wi",
+				"weiboHead"
+			],
+			[
+				"TE",
+				"textArea"
+			],
+			[
+				"r",
+				"replaceChild"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"time",
+				"time2"
+			],
+			[
+				"auto",
+				"autoMove"
+			],
+			[
+				"au",
+				"autoMove"
+			],
+			[
+				"mo",
+				"moveNum"
+			],
+			[
+				"sp",
+				"spans"
+			],
+			[
+				"sr",
+				"script	Tag"
+			],
+			[
+				"UL",
+				"ul"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"scr",
+				"scrollLeft"
+			],
+			[
+				"sc",
+				"scrollLeft"
+			],
+			[
+				"s",
+				"SmDiv"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"fl",
+				"float"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 11631,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "css/index.css",
+			"settings":
+			{
+				"buffer_size": 5236,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/index.js",
+			"settings":
+			{
+				"buffer_size": 380,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Select Next→选定​​下一个"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters→特殊字符进行编码"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 504.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/E/千峰/jQuery/课件/04-css&事件/04-mouse事件-slideUp-slideDown.html",
+		"/E/千峰/jQuery/课件/04-css&事件/04-CSS操作demo.html",
+		"/E/千峰/jQuery/课件/04-css&事件/04-scroll-scrollTop-fadeIn-fadeOut.html",
+		"/E/千峰/jQuery/课件/03-属性&文档操作/03-属性.html",
+		"/E/千峰/jQuery/课件/03-属性&文档操作/03-文档操作.html",
+		"/E/千峰/jQuery/课件/03-属性&文档操作/菜单录入/js/index.js",
+		"/E/千峰/jQuery/课件/03-属性&文档操作/03-数据类型转换.html",
+		"/E/千峰/jQuery/课件/03-属性&文档操作/02-筛选器补讲.html",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/模态框案例/02-模态框案例.html",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/jquery横向全屏轮播/index.html",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/jquery横向全屏轮播/js/index.js",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/模态框案例/js/index.js",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/02-伪类选择器-input相关.html",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/02-伪类选择器.html",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/02-属性（html-text-val）.html",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/01-回顾.html",
+		"/E/千峰/jQuery/课件/02-选择器下&筛选器/02-筛选器.html",
+		"/H/jQuery/课堂/8-30筛选器.html",
+		"/H/jQuery/课件/02-选择器下&筛选器/02-伪类选择器-input相关.html",
+		"/H/jQuery/课件/02-选择器下&筛选器/02-伪类选择器.html",
+		"/H/jQuery/课件/02-选择器下&筛选器/02-属性（html-text-val）.html",
+		"/H/jQuery/课件/02-选择器下&筛选器/02-筛选器.html",
+		"/H/jQuery/课件/01-初始jQuery&简单选择器/jQuery层级选择器.html",
+		"/H/jQuery/课件/01-初始jQuery&简单选择器/jQuery基本选择器.html",
+		"/H/jQuery/课件/02-选择器下&筛选器/01-回顾.html",
+		"/H/jQuery/课堂/8-29描述房间.html",
+		"/H/jQuery/课堂/8-29css儿子兄弟选择器.html",
+		"/H/jQuery/课堂/8-29jquery层级选择器.html",
+		"/H/jQuery/课堂/8-29jquery基本选择器.html",
+		"/H/jQuery/课堂/8-29jquery事件.html",
+		"/H/jQuery/课堂/8-29页面和文档加载.html",
+		"/H/jQuery/课件/01-初始jQuery&简单选择器/css特殊选择器.html",
+		"/H/jQuery/课件/01-初始jQuery&简单选择器/01-demo-文件引入.html",
+		"/H/jQuery/课件/03-属性&文档操作/03-属性.html",
+		"/H/jQuery/课件/03-属性&文档操作/03-文档操作.html",
+		"/H/jQuery/作业/8-30-input.html",
+		"/H/jQuery/课堂/8-31菜单录入.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/content.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/css/main.css",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/css/content.css",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/css/base.css",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/index.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/ppt.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item1.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item2.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item3.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item4.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item5.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item6.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item7.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT/item8.html",
+		"/H/第二阶段/课堂/8-24/无缝轮播-面向对象/mian.html",
+		"/H/第二阶段/作业/8-23/8-23更多产品.html",
+		"/H/第二阶段/KJ/21/21-百度首页吸顶盒案例.html",
+		"/H/第二阶段/课堂/8-3puke.html",
+		"/H/第二阶段/作业/8-23/8-23面向对象.html",
+		"/H/第二阶段/课堂/8-22/百度/百度体育8-22/selectcard.html",
+		"/C/Users/lenovo/Desktop/新建文件夹/KJ/PPT1/item6.html",
+		"/E/item6.html",
+		"/H/课件/网页/css/base.css",
+		"/H/课件/网页/index.html",
+		"/H/课件/网页/content.html",
+		"/H/课件/网页/css/content.css",
+		"/H/课件/网页/PPT/item6.html",
+		"/H/课件/网页/base.html",
+		"/H/课件/btst_38_primex/index.html",
+		"/H/第二阶段/KJ/15/16-Ajax封装-demo.html",
+		"/H/第二阶段/课堂/banner.html",
+		"/H/第二阶段/作业/8-15.html",
+		"/H/第二阶段/作业/8-15-表单.html",
+		"/H/第二阶段/课堂/8-4淡入淡出.html",
+		"/H/第二阶段/课堂/7-28banner.html",
+		"/H/第二阶段/ff2.html",
+		"/H/第二阶段/$.js",
+		"/H/第二阶段/课堂/8-10denglu.html",
+		"/H/第二阶段/ff.html",
+		"/H/第二阶段/KJ/11js事件/js/$.js",
+		"/H/第二阶段/课堂/8-3gotop.html",
+		"/H/第二阶段/ff1.html",
+		"/H/第二阶段/KJ/12/11-huigu.html",
+		"/H/第二阶段/作业/8-10.html",
+		"/H/第二阶段/KJ/boke.js",
+		"/H/第二阶段/KJ/boke.html",
+		"/H/第二阶段/KJ/boke.css",
+		"/H/第二阶段/KJ/Cookie.js",
+		"/H/第二阶段/KJ/12/12-demo.html",
+		"/H/第二阶段/作业/8-9/8-9.html",
+		"/H/第二阶段/KJ/12/弹窗拖拽.html",
+		"/H/第二阶段/KJ/12/自定义右键.html",
+		"/H/第二阶段/KJ/12/模态框静态.html",
+		"/H/第二阶段/作业/8-8.html",
+		"/H/第二阶段/作业/8-9.html",
+		"/H/第二阶段/KJ/07Date对象/07-demo.html",
+		"/H/第二阶段/KJ/08/08-demo.html",
+		"/H/第二阶段/repeat/8-5.html",
+		"/H/第二阶段/KJ/10/10-demo.html",
+		"/H/第二阶段/KJ/09/09-demo.html",
+		"/H/第二阶段/KJ/10/10-js-DOM深入.pptx",
+		"/H/第二阶段/作业/7-26.html",
+		"/H/第二阶段/KJ/09/09-js-DOM基础.pptx",
+		"/H/第二阶段/KJ/11js事件/案例-小猫跟随鼠标移动/js/index.js",
+		"/H/第二阶段/KJ/11js事件/案例-ctrl+enter发送消息/index.html",
+		"/H/第二阶段/KJ/11js事件/案例-小猫跟随鼠标移动/小猫跟随鼠标.html",
+		"/H/第二阶段/KJ/11js事件/11-demo.html",
+		"/H/第二阶段/课堂/8-8发送消息/js/8-8.js",
+		"/H/第二阶段/课堂/8-8发送消息/8-8ctrl+ente.html",
+		"/H/第二阶段/repeat/8-4.html",
+		"/H/第二阶段/课堂/进度条.html",
+		"/H/第二阶段/repeat/广告弹窗.html",
+		"/H/第二阶段/作业/8-2.html",
+		"/H/第二阶段/课堂/8-2rili.html",
+		"/H/第二阶段/课堂/8-2.html",
+		"/H/第二阶段/KJ/2/test.html",
+		"/H/第二阶段/课堂/8-2clock.html",
+		"/H/第二阶段/课堂/7-27.html",
+		"/H/第二阶段/作业/8-1.html",
+		"/H/第二阶段/课堂/8-1.html",
+		"/H/第二阶段/第一周复习闯关/crazy-jia.html",
+		"/F/crazy-jia.html",
+		"/C/Users/lenovo/Desktop/ceshi.html",
+		"/F/crazy-tour.html",
+		"/H/第二阶段/课堂/7-28function.html",
+		"/H/第二阶段/课堂/7-29sort.html",
+		"/H/第二阶段/KJ/04/huigu.html",
+		"/H/第二阶段/作业/7-28(2).html",
+		"/H/第二阶段/作业/7-28.html",
+		"/H/第二阶段/作业/7-25.html",
+		"/H/第二阶段/课堂/7-26.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"------",
+			"-------",
+			"title",
+			"1700",
+			"40px",
+			"\">\n",
+			"img	\n",
+			"img\n",
+			">\n",
+			"nowTime",
+			"();\n",
+			");\n",
+			";\n",
+			"left",
+			"doAnimate",
+			"oPosition",
+			" doAnimate",
+			"stopMove",
+			"autoMove",
+			"font-size",
+			"ybDreams",
+			"ybStars",
+			">\n",
+			"					",
+			":\n",
+			">\n",
+			"登陆",
+			">\n",
+			">",
+			">\n",
+			"=\"\"",
+			"}",
+			"90px",
+			"						",
+			"340px",
+			"移动位置",
+			"charset",
+			">",
+			"			",
+			"%;\n",
+			";\n",
+			"abcdefg",
+			"jpg",
+			"36个非常重要但常被遗忘HTML",
+			"2242px",
+			"li",
+			">\n",
+			"		\n",
+			"span",
+			">\n",
+			"24px",
+			"{\n",
+			">\n",
+			";\n",
+			">\n",
+			"conclue",
+			"right",
+			"ph_4"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			" ",
+			"ybDl",
+			"ybTx"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11631,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8693,
+								8693
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 6612.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5236,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4056,
+								4056
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4336.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 380,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 167.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

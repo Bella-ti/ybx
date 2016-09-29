@@ -1,0 +1,97 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>我的购物车</title>
+	<link rel="stylesheet" href="css/cart.css" />
+	<link rel="stylesheet" href="css/index.css" />
+	<link rel="stylesheet" href="css/icon/index.css" />
+</head>
+<body>
+	<div class="site-header site-mini-header">
+		<div class="container">
+			<div class="header-logo">
+				<a href="index.html" class="logo ir"></a>
+			</div>
+			<div class="header-title">
+				<h2>我的购物车</h2>
+				<p>温馨提示：产品是否购买成功，以最终下单为准哦，请尽快结算</p>
+			</div>
+			<div class="topbar-info">
+				<a class="link" href="login.html">登录</a>
+				<a class="link" href="register.html">注册</a>
+			</div>
+		</div>
+	</div>
+	<!--page-main  -->
+	<div class="page-main">
+		<div class="container">
+		<!-- cart-empty -->
+			<div class="cart-empty cart-empty-nologin">
+				<h2>您的购物车还是空的！</h2>
+				<p class="login-desc">登录后将显示您之前加入的商品</p>
+				<a class="btn btn-primary btn-login" href="login.html">立即登录</a>
+				<a class="btn btn-primary btn-shoping J_goShoping" href="index.html">马上去购物</a>
+			</div>
+			<!--购物车商品-->
+			<div id="J_cartBox">
+				<div class="cart-goods-list">
+					<div class="list-head clearfix">
+						<div class="col col-check">
+							<i class="iconfont icon-checkbox ">√</i>全选
+						</div>
+						<div class="col col-img">&nbsp;</div>
+						<div class="col col-name">商品名称</div>
+						<div class="col col-price">单价</div>
+						<div class="col col-num">数量</div>
+						<div class="col col-total">小计</div>
+						<div class="col col-action">操作</div>
+					</div>
+					<div class="list-body"></div>
+				</div>
+				<div class="cart-bar clearfix cart-bar-fixed">
+					<div class="section-left">
+						<a href="javascript:void(0)" class="back-shopping J_delete">批量删除</a>
+						<span class="cart-total">
+							共 
+							<i>1</i>
+							 件商品，已选择 
+							 <i>1</i>
+							 件
+						</span>
+						<span class="cart-coudan hide">
+							还需
+							<i>150</i>
+							 元即可免邮费 
+							 <a href="javascript:;">立即凑单</a> 
+						</span>
+					</div>
+					<span class="activity-money hide">
+						活动优惠：减 
+						<i>0</i>
+						元
+					</span>
+					<span class="total-price">
+                   		合计（不含运费）：
+                   		<em>999.00</em>元
+                    </span>
+                    <a href="javascript:;" class=" btn-a btn btn-primary">去结算</a>
+                    <div class="no-select-tip hide">
+                    	请勾选需要结算的商品
+                    	<i class="arrow arrow-a"></i>
+                    	<i class="arrow arrow-b"></i>
+                    </div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!--site-footer  -->
+	<div id="footer"></div>
+	<!-- footer -->
+	<div id="foot"></div>
+	<script type="text/javascript" src="js/jquery-1.11.3.js" ></script>
+	<script type="text/javascript" src="js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="js/index.js" ></script>
+	<script type="text/javascript" src="js/cart.js" ></script>
+</body>
+</html>

@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title></title>
+		<link rel="stylesheet" href="css/login.css" />
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="wrap">
+				<div class="layout">
+					<div id="main_container" class="n-frame device-frame reg_frame">
+						<div class="external_logo_area">
+							<a class="milogo" href="javascript:;"></a>
+							<div>
+								<a class="ercode" id="qrcode-trigger" href="javascript:;"></a>
+							</div>
+						</div>
+						<div class="title-item t_c">
+							<h4 class="title_big30">小米账号登录</h4>
+						</div>
+						<div>
+							<div class="regbox">
+								<div class="phone_step1">
+									<!--手机号码-->
+									<div class="inputbg">
+										<label class="labelbox">
+											<input type="tel" name="phone" data-check="手机号码错误" placeholder="请输入手机号码" />
+										</label>
+									</div>
+									<!--error tip-->
+									<div class="err_tip">
+										<div class="dis_box">
+											<em class="icon_error"></em>
+											<span></span>
+										</div>
+									</div>
+									<!--输入密码-->
+									<div class="inputbg">
+										<label class="labelbox">
+											<input type="password" data-check="密码错误" name="password" placeholder="请输入密码" />
+										</label>
+									</div>
+									<!--error tip-->
+									<div class="err_tip">
+										<div class="dis_box">
+											<em class="icon_error"></em>
+											<span></span>
+										</div>
+									</div>
+									<div class="err_tip send-left-times"></div>
+									<!--立即登录-->
+									<div class="fixed_bot mar_phone_dis1">
+										<input class="btn332 btn_reg_1 submit-step" type="submit" value="立即登录" />
+									</div>
+									<p><a href="register.html">注册小米账号</a></p>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!--二维码-->
+					<div class="ercode_area">
+						<div class="ercode_pannel">
+							<a class="code_close" href="javascript:;">
+								<span class="icon_code_close"></span>
+							</a>
+							<div class="ercode_box">
+								<div class="code_hd">
+									<h3 class="code_tit">小米帐号扫码登录</h3>
+									<p>请使用最新版MIUI中“我的小米”进行扫码登录</p>
+								</div>
+								<div class="code_iframe">
+									<img src="img/er.png" />
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="footer">
+				<div class="link-area clearfix">
+					<ul class="lang-ul">
+						<li><a class="lang-a">简体</a>|</li>
+						<li><a class="lang-a">繁体</a>|</li>
+						<li><a class="lang-a">English</a>|</li>
+						<li><a class="lang-a">常见问题</a></li>
+					</ul>
+				</div>
+				<p class="intro">
+					<span >小米公司版权所有-京ICP备10046444-
+						<a href="" class="plink">
+							<span><img src="img/ghs.png">京公网安备11010802020134号</span>
+						</a>
+						-京ICP证110507号
+					</span>
+				</p>
+			</div>
+		<script src="js/jquery-1.11.3.js"></script>
+		<script src="js/jquery.cookie.js"></script>
+		<script src="js/login.js"></script>
+	</body>
+</html>
